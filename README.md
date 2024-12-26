@@ -1,7 +1,7 @@
 <!-- info -->
 ### :wave: WELCOME!
 
-#### Calling my data...
+#### Polling my data...
 
 ```json
 {
