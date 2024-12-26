@@ -7,7 +7,7 @@
 {
 	"name": "Seongjin Kim",
 	"nickname": "LTT",
-	"birth": 2000-06-25,
+	"birth": "2000-06-25",
 	"age": 23,
 	"email": "sjinkim000625@gmail.com",
 	"blog_url": "https://velog.io/@playername_ltt",
@@ -15,8 +15,8 @@
 		"university": {
 			"name": "Myongji Univ.",
 			"major": "Computer Engineering",
-			"entered_at": 2019-03,
-			"graduated_at": 2025-02
+			"entered_at": "2019-03",
+			"graduated_at": "2025-02"
 		},
 		"bootcamp": null
 	},
@@ -26,7 +26,7 @@
 			"position": "Backend Developer",
 			"level": "Junior",
 			"rank": "Intern",
-			"started_at": 2024-08,
+			"started_at": "2024-08",
 			"ended_at": null
 		}
 	],
