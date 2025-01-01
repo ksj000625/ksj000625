@@ -8,7 +8,7 @@
 	"name": "Seongjin Kim",
 	"nickname": "LTT",
 	"birth": "2000-06-25",
-	"age": 23,
+	"age": 24,
 	"email": "sjinkim000625@gmail.com",
 	"blog_url": "https://velog.io/@playername_ltt",
 	"educated": {
