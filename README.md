@@ -7,8 +7,6 @@
 {
 	"name": "Seongjin Kim",
 	"nickname": "LTT",
-	"birth": "2000-06-25",
-	"age": 24,
 	"email": "sjinkim000625@gmail.com",
 	"blog_url": "https://velog.io/@playername_ltt",
 	"educated": {
@@ -23,7 +21,7 @@
 	"job": [
 		{
 			"company": "AromIT",
-			"position": "Backend Developer",
+			"position": "Fullstack Developer",
 			"level": "Junior",
 			"rank": "Intern",
 			"started_at": "2024-08",
