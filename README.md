@@ -6,9 +6,8 @@
 ```json
 {
 	"name": "Seongjin Kim",
-	"nickname": "LTT",
 	"email": "sjinkim000625@gmail.com",
-	"blog_url": "https://velog.io/@playername_ltt",
+	"blog_url": "<https://velog.io/@playername_ltt>",
 	"educated": {
 		"university": {
 			"name": "Myongji Univ.",
@@ -20,10 +19,9 @@
 	},
 	"job": [
 		{
-			"company": "AromIT",
+			"company": "AromIT Inc.",
 			"position": "Fullstack Developer",
 			"level": "Junior",
-			"rank": "Intern",
 			"started_at": "2024-08",
 			"ended_at": null
 		}
