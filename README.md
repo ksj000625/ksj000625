@@ -7,7 +7,7 @@
 {
 	"name": "Seongjin Kim",
 	"email": "sjinkim000625@gmail.com",
-	"blog_url": "<https://velog.io/@playername_ltt>",
+	"blog_url": "https://velog.io/@playername_ltt",
 	"educated": {
 		"university": {
 			"name": "Myongji Univ.",
