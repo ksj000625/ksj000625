@@ -26,7 +26,7 @@
 			"ended_at": null
 		}
 	],
-	"introduce": "I'm hanging on until I figure it out."
+	"introduce": "I'm hanging on until I figure it out. Feedback is always welcome."
 }
 ```
 
