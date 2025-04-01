@@ -26,7 +26,8 @@
 			"ended_at": null
 		}
 	],
-	"introduce": "I'm hanging on until I figure it out. Feedback is always welcome."
+	"introduce": "I'm hanging on until I figure it out. Feedback is always welcome.",
+	"interested_in" : ["Back-End", "DevOps"]
 }
 ```
 
