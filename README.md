@@ -1,8 +1,15 @@
 <h1 align="center">👋 Hi, I'm Seongjin Kim</h1>
 <p align="center">🧑‍💻 Fullstack Developer | 💡 Exploring Cloud & AI</p>
 <p align="center">
-  <a href="mailto:sjinkim000625@gmail.com">📧 Email</a> |
-  <a href="https://velog.io/@playername_ltt">📝 Blog</a>
+  <a href="mailto:sjinkim000625@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://velog.io/@playername_ltt">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog" />
+  </a>
+  <a href="https://www.linkedin.com/in/seongjin-kim-92743b333">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -16,20 +23,24 @@
 
 ---
 
-## 💻 Tech Stack
+### 🏆 **Awards**
+- 명지대학교 캡스톤디자인 경진대회 장려상  
 
-### 💡 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+### 🧾 **Certifications**
+- 정보처리기사 (2025.09)  
+- 네트워크관리사 2급  
+- NCS SW개발_L5  
+
+---
+
+## 💻 Tech Stack
 
 ### 🛠️ Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
