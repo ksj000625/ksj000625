@@ -12,28 +12,14 @@
   </a>
 </p>
 
----
-
-## 🚀 About Me
+# 🚀 About Me
 > “I don't quit until I make it.”
 
 - 🎓 Majored Computer Engineering `@Myongji Univ.` (2019.03 ~ 2025.02)
 - 💼 Fullstack Developer `@AromIT Inc.` (2024.08 ~ )
 - 🌱 Interested in Backend, Cloud, and AI
 
----
-
-### 🏆 **Awards**
-- 명지대학교 캡스톤디자인 경진대회 장려상  
-
-### 🧾 **Certifications**
-- 정보처리기사 (2025.09)  
-- 네트워크관리사 2급  
-- NCS SW개발_L5  
-
----
-
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### 🛠️ Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -52,9 +38,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ksj000625&show_icons=true&theme=dracula" width="450" />
