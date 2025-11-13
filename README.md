@@ -13,11 +13,14 @@
 </p>
 
 # 🚀 About Me
-> “I don't quit until I make it.”
+> “Developer to Engineer, Engineer to Leader”
 
-- 🎓 Majored Computer Engineering `@Myongji Univ.` (2019.03 ~ 2025.02)
 - 💼 Fullstack Developer `@AromIT Inc.` (2024.08 ~ )
 - 🌱 Interested in Backend, Cloud, and AI
+
+## 🎓 Education
+- Majored Computer Engineering `@Myongji Univ.` (2019.03 - 2025.02)
+- AI Service Engineering Track `@Spartaclub` (2025.11 - 2026.02)
 
 # 💻 Tech Stack
 
@@ -37,10 +40,3 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksj000625&show_icons=true&theme=dracula" width="450" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksj000625&layout=compact&theme=dracula" width="350" /> -->
-</p>
