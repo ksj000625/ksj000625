@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Seongjin Kim</h1>
+<h1 align="center">Seongjin Kim</h1>
 <p align="center">🧑‍💻 Fullstack Developer | 💡 Exploring AI</p>
 <p align="center">
   <a href="mailto:sjinkim000625@gmail.com">
@@ -15,7 +15,7 @@
 # 🚀 About Me
 > “Developer to Engineer, Engineer to Leader”
 
-- 💼 Fullstack Developer `@AromIT Inc.` (2024.08 ~ )
+- 💼 Fullstack Developer `@AromIT Inc.` (2024.08 - )
 - 🌱 Interested in Backend and AI
 
 ## 🎓 Education
