@@ -21,3 +21,7 @@
 ## 🎓 Education
 - Majored Computer Engineering `@Myongji Univ.` (2019.03 - 2025.02)
 - AI Service Engineering Track `@Spartaclub` (2025.11 - 2026.02)
+
+---
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ksj000625&show_icons=true&theme=tokyonight)
