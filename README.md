@@ -1,5 +1,5 @@
 <h1 align="center">Seongjin Kim</h1>
-<p align="center">🧑‍💻 Fullstack Developer | 💡 Exploring AI</p>
+<p align="center">🧑‍💻 Backend Engineer | 💡 Exploring AI</p>
 <p align="center">
   <a href="mailto:sjinkim000625@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -18,8 +18,8 @@
 # 🚀 About Me
 > “Developer to Engineer, Engineer to Leader”
 
-- 💼 Fullstack Developer `@AromIT Inc.` (2024.08 - )
-- 🌱 Interested in Backend and AI
+- 💼 Backend Engineer `@AromIT Inc.` (2024.08 - )
+- 🌱 Interested in AI
 
 ## 🎓 Education
 - Majored Computer Engineering `@Myongji Univ.` (2019.03 - 2025.02)
